@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/76/34/d0/7634d00aa8fe6cb1927ceb011d13bdca--star-gif-falling-stars.jpg)](thskdhakal.io)
+[![MasterHead](https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a)](thskdhakal.io)
 <h1 align="center">Hi 👋, I'm Shiva</h1>
 <h3 align="center">A motivated Full-stack developer</h3>
 
